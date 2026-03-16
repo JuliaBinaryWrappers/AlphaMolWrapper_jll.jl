@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("AlphaMolWrapper")
-JLLWrappers.@generate_main_file("AlphaMolWrapper", UUID("3fb590a3-637c-5b79-98b0-0e302591ed6a"))
+JLLWrappers.@generate_main_file("AlphaMolWrapper", Base.UUID("3fb590a3-637c-5b79-98b0-0e302591ed6a"))
 end  # module AlphaMolWrapper_jll
