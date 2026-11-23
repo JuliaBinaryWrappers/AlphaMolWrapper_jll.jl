@@ -1,348 +1,348 @@
 [[AlphaMolWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "ebca95b3ae05906b0c938f8dd362a5a68a02c9e2"
+git-tree-sha1 = "1249504f5e7e1b56d4d513a4f1c19dbf5379bd00"
 julia_version = "1.10.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "0f21fb6c77a452009fb5ce3ed2460895e188b120136579c806c13b4582c605ec"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "7bf04caecc0a93e1ff7b5a90896dd69d9ce27b44ffcc48868e5e02db30745dd4"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "cfc2a7716e32ffbc8773c49e1d432afb041dee64"
+git-tree-sha1 = "5349e277b8a53de45c12039d2f17090b62234b99"
 julia_version = "1.11.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "3a49574a874407be03ce5733a023978881311ab211fc32028d0de461361a184c"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "5152b3fa562a9c36950dc636d53845c09c37167bbc3cbdf5a1cdf046ab682542"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "3dcf64281274268227d8dc8131e90a2ae299ef33"
+git-tree-sha1 = "6a4efc503c9446ea8c982a187ef940933e92044d"
 julia_version = "1.12.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "58b2813c93aece88d09a934c82cc66a26db25b60d04fac15323e278fbea804f2"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "c543e254ce357ad7d80d6b56a703f2786c09e82f2ddbe387afb3a77068adbb29"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b689cb1674644acd1c3d172eb84c5116e0844c6"
+git-tree-sha1 = "99f30787fe991bb84a19a683dfe04b4174e21e63"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "138dc7cafbac66e423955ea2fa8d8cd147de699951977d886ab2d6f56165e8b2"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "2f1b6f5f20237f90c3b55982273903516256b2dcf676713f5098cff16381d5bc"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "462fae1936e5bdbe9407334ca992345eb8d9a371"
+git-tree-sha1 = "c34b5bdf8eea46eb2ff991c8a1832e2748b3ad82"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "9d86ffffc6c1bb92ed15d3f4e85812b0b3e4d10fa16b3dc18666fc22ef0733d7"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "444cc10a11e6ab4e102aed9c716c011e2040255d187afc895fe1b0416b5e3dff"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f8c65c1c1baf3dc31cff955753697262288bb040"
+git-tree-sha1 = "070a4a12f3f646bc8ff820a839231d1fe852f4eb"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "7be2c3eb694b63444363fe037d839e821c30619af23585bca8b50ddfeef6590e"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e7405cf69c784adc94422eb93d2b02ccb06dee01d512f2a99232cf8a5e35ec01"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4676bb94d4b1585b9eaeab56df2b7938e5c7df0b"
+git-tree-sha1 = "1206d8a36b803f6ed798cadbd6f01e1c382a51ee"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "60d37166b4931071a721828a462b1a49d7ef9c40c8d766eb90a01668d91c17ce"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "367fcdcd19da64c63183380d88c754a81f649ffc3f7fe289bbd2910217077158"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cf00c91a3181d6ad08634bf9894be622d98660f"
+git-tree-sha1 = "15316bba6f5753d20dc86b7c8e305c3d78a0d0fd"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "0d153d9c9b50e5add57594200f04c9eac18c771c3027b83835f344342e0108ef"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "cfb452fecb86419a456813361988fd1e767ae07467da8c2c6fcb374e74c77cda"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65c5f8b2309c1058b63fe93f46d40284bda9c6c5"
+git-tree-sha1 = "4bd628c7aa5436e586908c5bf866f2160db5c17c"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "d6c9f87c076714a7337fe9ba161b252d6572b4c6963d92b81db7384fc189c695"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "943f9068bde93493452185a2e91e4d468c1d1e0b4cbfb60d55eb7aa179e0e4b2"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "2f0771b500e83ca0252419e40f487470f79d6538"
+git-tree-sha1 = "73b94b3ed4f0359a399887a73af5e9578447003f"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "6363ba3e67acf70756e72994d20865a81d8f6879e044a20332d0995434fa0faf"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "09c43fac5c50588b7cb721d8c0b27f77fb0ef7f6d627ed26946937d40f2aa015"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebc9fbe256d845648b7179638071c2ff3f9d97f2"
+git-tree-sha1 = "c2c9999e27de63320c376b0670f2b6411aabca84"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "0c445a42ad23730ace71489806996d2e507e67ac2f67e2b28c8db8d4ebb1f969"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "a817c39d9787ca194f65ec30de4011d0bfb91ba4a0a2e9abf225047cf7eb3fc6"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ab826a7ae9c6cc76f4f011d2009db16d3f15e88f"
+git-tree-sha1 = "a4614e050754269d4c7896c7118eaf3035118643"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "32078711d4e33acb2c92baf00c466bdbf95dc9c59dd661cc9f3aea5abc94ef4e"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "e78c549c4c4839dfd44e0ed03b7c5719268bcc4a734f7bb252bb265748de2ce1"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2dbe2e2cc8f27ee037688c17ecdf2d0e5a5f459"
+git-tree-sha1 = "a48324f7c9cb05a8ea2561977632edefd08f443d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "176819608ebd125498a182604cd3cabadb16a19f09c6197f1df67be707b13b67"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "06a40295f6f7b3cb75ce8768eb0e0801ceeecfc1b5e5c00a90a77c1b9abe5cdc"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a60ab7ecaabec80b9a68b80789b2057eaa40764"
+git-tree-sha1 = "0f32b5a0841ba0c12b214f4e0d806514ee7a329d"
 julia_version = "1.10.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "27a2339ef4f495da97e615f97f23d8b956674b22125fd5d4c22fdd9fe5d2b4b0"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "e85e0da20750b31858244732865eb2ef0e77c4d9897f4a161bcd46060f2ecf9d"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89e9e4200d971ce289b5783c4ecd3dfbe259152a"
+git-tree-sha1 = "f99307eb16ed3b637fcc6634d43cc040f7d91538"
 julia_version = "1.11.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "b3e8bfe22699cbb5c15e726825cc0eca023de0d35a254900bf7c644be440e97f"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "f717ecc904b8c360d070621a92f930fe8a85761b17b96ca39a1b5154df501bf1"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1bafedab26072f4a429ba6ac393bc68beff614ba"
+git-tree-sha1 = "c77303d59e403cb302e8140bf34d671aff5c6aa3"
 julia_version = "1.12.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "d13271e576a3c47ba9d8aec9e10f5e69cd8ce6a0ed64d95c0a274b7180066345"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "5206f23cb6322f34c02a7aeb9d4be0521aa3ab455b3f8b8fee4b894cbbabda4a"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38943ac5f7fdb1f7bfafbfe460343dd67dd9cfaa"
+git-tree-sha1 = "99366b245f3374bbaa4f40e21f0d88645ceea6c7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "a66504ad9f6c6adf8d4dbe2c89ba0ffa5127256ab847973361bba6e94a5336b4"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "519687006b5acec1463003af6c33101b6baf0929da5ec454e04320c86f84ba19"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7770edd3967ffe0f86eb3d9497024bd07eba216c"
+git-tree-sha1 = "dfda9dc2f6e566a40ea157c76cc2749e84cc7c1d"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "0af0cba837c1eb7c9ee352527bf74786ea536488a2b1e043df804f3f374f5daa"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "7b7986df74a36ee20ae929a9b02aeb3c555c47e1eb06cddb1acfb6852510b660"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "27c90d76d6d4fdc1fba3047c4b0622654ad10498"
+git-tree-sha1 = "894da04f8383ee7497e65b416e50b3f7a0b0985a"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "358c2940284e2222373707a2a8a2ec174cd85c55042d927ee9c918d4d8b3ef98"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "67e6e542cbf7c132cba584ce5dc101b93c85c113a6aa6bdaa877bcef9a999985"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "d3fb44695cd5f999e16e90dc148b2cf14da1a329"
+git-tree-sha1 = "1a45e0a848d6b994746dd1a31746bb02a4de0323"
 julia_version = "1.10.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "f73334f8bde0165030391c45b752cb707ae6e0a278b297c27e60ce0a0a0357cd"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "532551e4d3b46f6f4d4c862cff9f15e5c8c55a319f8a36945697fe017c683286"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "9b3e0d9909489839ac8ccee44275c66ea3ae04ac"
+git-tree-sha1 = "ad723941a5a6004ba1445db9cc8c8f8282825ad2"
 julia_version = "1.11.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "d7fa9089d69fe91a28120c103da46f38ef406a653be762aac2fcac721f21b198"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "19937f73009e37140cf4e183c98f4aec493adec25b4bc2b7fbb7e4d6a1df5343"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "3331bba51bb6f9d5496a12213770b7f85a379a01"
+git-tree-sha1 = "a4cabd88d00deeda7781115c46542d74ad670ca3"
 julia_version = "1.12.0"
 os = "macos"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "13259db885521b3a6b89e761684b17f1a0f44ecc1ebf0f37b7e91061106b16a8"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "ccbd5573c0e375939dee593775b2a5aece8304b8b531c2b6d10f630583616f56"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae2d89ad57fe0627413629baace5c8e7cdfad9a8"
+git-tree-sha1 = "6e3fabc0cef2b26fa5409c9343aaea4029bf62f2"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "485f6cf8b99ab5e0a48c3056a2f4c6de2e59dfe5df0bf4ec62b4da01fd5006d8"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "3a3134f31b2ea41d428967123733f7b3c0e06e4616dc5cdf4193e99b8f98951a"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "75d9c454aaa86c9ede477edffe0e0c1d5e7467e1"
+git-tree-sha1 = "ba2fbb1f4ec555570f65003092e6d8e3a9020880"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "061948f07588a6629159f5ddef5fda88d694dd6ffbb4e63e1e2eda93808305b8"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "c5279c2c699840879c982f6d1cd69ba83d3efbeba77c6f423a196077e7dd4367"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bba286943b131a5b79eb3216adefa090a9ea2a28"
+git-tree-sha1 = "7a2b309fb8a041c7eb8121345dc10ee9c22f2f26"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "ad6a16c3050a63a53280ea01953b9826922dd9739677cfc54281ccd98b7eb19e"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "0f85a166f34788dc0efc75569d88ed17ec2f2cef0f7bdddd735b64daa9a200a3"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2672e3a7c7074b47b564934aee146057171a2e74"
+git-tree-sha1 = "7abe2f853db850cee38bf2f8995b95ed65405963"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "b9fe3e336e8a9878bd8cbf93a3c66c47dad76726b3f72959a3010c1c90853224"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "0cc9fc3cb6f1d1c68bd7f42cab522be64f5c50ed9d8c60d29ab0e5b00c8f4a4c"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad0e790cfa6d07cf157f312df74fda0048a6fff0"
+git-tree-sha1 = "e2cce7998a939dbd655ebb028a20b578e0fb52c7"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "b3f7afd498329f2a1387145d836889341ff27a2d11e58702e5895003de17501b"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "5db1353e2e58586d46a16acaba2fe5d39d731e4baa0d0af9bcd032fb22c551a7"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bfb794f5d6810256339699189fa0a68d4db7b4dc"
+git-tree-sha1 = "97def620e133068add7eab800e0038f9a93ee9be"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "6d4dfd356855d6a6a62581efb4d7073ae5c870863c5b8633dbc490b85e81ba8a"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "eb6476d1b2ca97fcc2c34e8b76cc4b27ec40cfb975c2d9f89155673f3ded0a9a"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "47ccb5658e3e66dd001b4ab59ee7ac0ef12867c4"
+git-tree-sha1 = "9d24193b2157fb986c009894341e8c1ad46b975c"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "e27b2540d604d9c203df9882c2ceb1e7f82e181565356ad8fa749df361f672ea"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "918a7316afaf38e7961e1113a83221a571c12b3ca879035aa513f63d1aea2609"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "a688c1ca217ad0979a82170d66f28e4e7bb5f2ef"
+git-tree-sha1 = "11bc8a02eb5673832c3ee80ecd4a3c3bb19c72a7"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "b76aaa63ae8a467684521df8e31a2f4e6f9c3da8b7ee5444e08f8b771e4e4ab9"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "15762164578ab83bea04d1d6d159259315a1de6f5cb692c94a445e2789844145"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "a790fd8eb694893004917f1d19397de60ae4ca54"
+git-tree-sha1 = "ce2f0d1ed98c9eb60a7769188ca3d8e58533404b"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "f2f0df10a8f020481f17edbbaf87d3bb4d2a6700c2093195e6877ca973de411b"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "a8014e20ad805ce11b6077d3a13410353afee56b46bc96bdd09ab504190c4d3f"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "44aa63407a383e9c67793d4f500f60a9cc72ac55"
+git-tree-sha1 = "02ca2586f4fcfdf431a39fdefef2f649b2ff76e1"
 julia_version = "1.10.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "7791ec1e438d190b9f0881a8ac8200e6630ed4e19bae67ec8744a09397c21d41"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "dd6f1b68583330e9483b0b09752fdadfe69b43d7506e37436de8f8602172eb6b"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1827ad5cf9ee430af00f26422543823ecc549d37"
+git-tree-sha1 = "5fbd631a2d201015ef528da362bd4645c9795261"
 julia_version = "1.11.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "20bba5d0c2a4b2b8138ac85dd5602d417e721db564f76dddd59639754646f3aa"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "bc07c75bec546ed5370c48de2562a1577f4eb726d5db14f07a4b1164954a35da"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[AlphaMolWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "036339d9131e404f335d818b02bdcffe08837625"
+git-tree-sha1 = "956538df842a6b77122d6ab90d0fde74f0ddc2b9"
 julia_version = "1.12.0"
 os = "windows"
 
     [[AlphaMolWrapper.download]]
-    sha256 = "7eb8bd66347c63f71807e89e56f8482c243d26de817cab563ac86c76454b95b9"
-    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.0+0/AlphaMolWrapper.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e2d135bfb7abe418f0c90b2ae653cb96de7d552f0548916fc1aff296585ef747"
+    url = "https://github.com/JuliaBinaryWrappers/AlphaMolWrapper_jll.jl/releases/download/AlphaMolWrapper-v0.6.1+0/AlphaMolWrapper.v0.6.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
